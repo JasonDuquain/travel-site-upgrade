@@ -1,0 +1,23 @@
+run npm i (and ignore any sects where you install individual pkgs)
+
+create a github repo and give it a name
+
+create a travel folder locally and run
+
+# git clone https://github.com/LearnWebCode/travel-site-files.git
+
+then change the dst to this new repo (it will default to his)
+
+# git remote set-url origin https://github.com/JasonDuquain/<repo name>.git
+
+----------------------------------
+
+START at 13. Webpack Intro at 6:30 mark
+
+
+
+ 
+
+
+
+
